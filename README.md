@@ -7,5 +7,6 @@ Idea in simple terms:
     YOLOv5_knots.ipynb - google collab notebook having all code to run collab
     train_data/images - file containing all the images for knots (around 400photos)
     train_data/labels - file containing all the labels for images - laballed using makesense.ai
+    runs/train/exp    - file containing all information when training algorithm with 100 epochs - including graphs and wieghts
     
   
